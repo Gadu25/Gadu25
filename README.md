@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Alex a software developer 😁,<br><br>I'm currently building  my hobby project "megome" a CRUD app 😢, while deep diving on low level programming on the side with C 😎.<br>Oh, and I love coffee btw.<br><br>How about we Connect ? [alexanderudag@gmail.com / https://www.linkedin.com/in/alexander-udag ]
+Hi there! I'm Alex a software developer 😁,<br><br>I'm currently building  my hobby project "megome" a CRUD app 😢, while deep diving on low level programming on the side with C 😎.<br>Oh, and I love coffee btw.<br><br>How about we Connect ? [ alexanderudag@gmail.com / https://www.linkedin.com/in/alexander-udag ]
 
 
 # 💻 Tech Stack:
