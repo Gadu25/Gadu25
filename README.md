@@ -8,7 +8,4 @@ Hi there! I'm Alex a software developer 😁,<br><br>I'm currently building  my 
 ![](https://streak-stats.demolab.com/?user=Gadu25&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Gadu25&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=Gadu25&icon=0&color=2)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
