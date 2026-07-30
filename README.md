@@ -1,4 +1,4 @@
-**Hi there! I'm Alex a software developer from Philippines** 😁,<br><br>I'm currently building  my hobby project "megome" a CRUD app 😢, while deep diving and learning low level programming on the side with C 😎.<br><br>Oh, and I love coffee and neovim btw.<br><br>How about we Connect ? [ alexanderudag@gmail.com / https://www.linkedin.com/in/alexander-udag ]
+**Hi there! I'm Alex a software developer from Philippines** 😁,<br><br>I'm currently building  my hobby project "megome" a CRUD app 😢, while deep diving and learning low level on the side with C 😎.<br><br>Oh, and I love coffee and neovim btw.<br><br>How about we Connect ? [ alexanderudag@gmail.com / https://www.linkedin.com/in/alexander-udag ]
 
 
 # 💻 Tech Stack:
